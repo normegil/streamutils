@@ -1,3 +1,4 @@
+// Small library containing utilities to use with streams in Go
 package streamutils
 
 import (
